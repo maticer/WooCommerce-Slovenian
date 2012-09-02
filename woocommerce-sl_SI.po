@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: WooCommerce v1.5.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2012-09-02 13:47:22+0000\n"
+"PO-Revision-Date: 2012-08-26 08:31:33+0000\n"
 "Last-Translator: matic <matic@protobit.net>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -263,7 +263,7 @@ msgstr ""
 #: classes/class-wc-product.php:440
 #@ woocommerce
 msgid "Out of stock"
-msgstr ""
+msgstr "Kontaktirajte nas za naročilo"
 
 #: admin/post-types/product.php:317
 #@ woocommerce
@@ -340,7 +340,7 @@ msgstr ""
 #: templates/single-product/product-attributes.php:22
 #@ woocommerce
 msgid "Weight"
-msgstr ""
+msgstr "Teža"
 
 #: admin/post-types/product.php:500
 #: admin/post-types/product.php:730
@@ -1837,7 +1837,7 @@ msgstr ""
 #: templates/single-product/product-attributes.php:31
 #@ woocommerce
 msgid "Dimensions"
-msgstr ""
+msgstr "Dimenzije"
 
 #: admin/post-types/writepanels/writepanel-product_data.php:133
 #@ woocommerce
@@ -2082,7 +2082,7 @@ msgstr ""
 #: templates/single-product-reviews.php:37
 #@ woocommerce
 msgid "Reviews"
-msgstr ""
+msgstr "Mnenja"
 
 #: admin/post-types/writepanels/writepanels-init.php:48
 #@ woocommerce
@@ -4886,7 +4886,7 @@ msgstr ""
 #: admin/woocommerce-admin-settings.php:1082
 #@ woocommerce
 msgid "ShareThis"
-msgstr ""
+msgstr "Deli s prijatelji"
 
 #: admin/woocommerce-admin-settings.php:1082
 #@ woocommerce
@@ -8599,7 +8599,7 @@ msgstr ""
 #: templates/checkout/form-login.php:8
 #@ woocommerce
 msgid "Already registered?"
-msgstr "Že imate račun?"
+msgstr ""
 
 #: templates/checkout/form-login.php:11
 #@ woocommerce
@@ -8638,7 +8638,7 @@ msgstr "Dostavimo na isti naslov?"
 #: templates/single-product/tabs/tab-attributes.php:7
 #@ woocommerce
 msgid "Additional Information"
-msgstr ""
+msgstr "Dodatne informacije"
 
 #: templates/checkout/review-order.php:92
 #@ woocommerce
@@ -8788,7 +8788,7 @@ msgstr ""
 #: templates/loop/add-to-cart.php:29
 #@ woocommerce
 msgid "Read More"
-msgstr ""
+msgstr "Preberi več"
 
 #: templates/loop/add-to-cart.php:21
 #@ woocommerce
@@ -9143,7 +9143,7 @@ msgstr ""
 #: templates/single-product-reviews.php:66
 #@ woocommerce
 msgid "There are no reviews yet, would you like to <a href=\"#review_form\" class=\"inline show_review_form\">submit yours</a>?"
-msgstr ""
+msgstr "Za ta izdelek ni še nobenega mnenja, dodaj <a href=\"#review_form\" class=\"inline show_review_form\">svoje menje</a>!"
 
 #: templates/single-product-reviews.php:84
 #@ woocommerce
