@@ -1,3 +1,5 @@
 *
+!.gitignore
+!README.md
 !woocommerce-sl_SI.mo
 !woocommerce-sl_SI.po
