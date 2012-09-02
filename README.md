@@ -15,9 +15,9 @@ Navodila za uporabo tega plugina se nahajajo na:
 https://docs.google.com/document/d/1p68Ar9uQ2LTNaFy9uFG7sTmgT_OxYzNufzspaCv5iAY/edit
 
 Pri prevajanju se skušajmo držati navodil/pravil:
-https://wiki.lugos.si/slovenjenje:pravila
-http://sl.wordpress.org/prevajanje/slovarcek/
+* Slovenjene - pravila: https://wiki.lugos.si/slovenjenje:pravila
+* WordPress slovar: http://sl.wordpress.org/prevajanje/slovarcek/
 
-Licena
-------
+Licenca
+-------
 This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/.
