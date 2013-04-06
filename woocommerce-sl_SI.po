@@ -139,7 +139,7 @@ msgstr "Dodaj ta izdelek v vrsto"
 #: admin/post-types/product.php:144
 #@ woocommerce
 msgid "Quick&nbsp;Edit"
-msgstr ""
+msgstr "Hitro&nbsp;Uredi"
 
 #: admin/post-types/product.php:148
 #@ woocommerce
@@ -176,7 +176,7 @@ msgstr "Začasno izbriši"
 #, php-format
 #@ woocommerce
 msgid "Preview &#8220;%s&#8221;"
-msgstr ""
+msgstr "Predogled &#8220;%s&#8221;"
 
 #: admin/post-types/product.php:157
 #@ woocommerce
@@ -187,7 +187,7 @@ msgstr "Predogled"
 #, php-format
 #@ woocommerce
 msgid "View &#8220;%s&#8221;"
-msgstr ""
+msgstr "Poglej &#8220;%s&#8221;"
 
 #: admin/post-types/product.php:159
 #: admin/post-types/shop_order.php:174
@@ -224,7 +224,7 @@ msgstr ""
 #: admin/post-types/writepanels/writepanel-product_data.php:56
 #@ woocommerce
 msgid "Downloadable"
-msgstr ""
+msgstr "Prenesi"
 
 #: admin/post-types/product.php:215
 #@ woocommerce
@@ -235,12 +235,12 @@ msgstr "Preprosto"
 #: admin/post-types/product.php:382
 #@ woocommerce
 msgid "Variable"
-msgstr ""
+msgstr "Spremenljivka"
 
 #: admin/post-types/product.php:242
 #@ woocommerce
 msgid "Change"
-msgstr ""
+msgstr "Spremeni"
 
 #: admin/post-types/product.php:250
 #: admin/post-types/product.php:636
@@ -268,13 +268,13 @@ msgstr "Kontaktirajte nas za naročilo"
 #: admin/post-types/product.php:368
 #@ woocommerce
 msgid "Show all product types"
-msgstr ""
+msgstr "Pokaži vse tipe izdelkov"
 
 #: admin/post-types/product.php:376
 #: admin/post-types/writepanels/writepanel-product_data.php:37
 #@ woocommerce
 msgid "Grouped product"
-msgstr ""
+msgstr "Združeni izdelki"
 
 #: admin/post-types/product.php:378
 #: admin/post-types/writepanels/writepanel-product_data.php:38
@@ -286,7 +286,7 @@ msgstr ""
 #: admin/post-types/writepanels/writepanel-product_data.php:36
 #@ woocommerce
 msgid "Simple product"
-msgstr ""
+msgstr "Enostaven izdelek"
 
 #: admin/post-types/product.php:394
 #@ woocommerce
@@ -297,13 +297,13 @@ msgstr ""
 #, php-format
 #@ woocommerce
 msgid "[%s with SKU of %s]"
-msgstr ""
+msgstr "[%s z kodo %s]"
 
 #: admin/post-types/product.php:521
 #, php-format
 #@ woocommerce
 msgid "[%s with ID of %d]"
-msgstr ""
+msgstr "[%s z ID-jem %d]"
 
 #: admin/post-types/product.php:547
 #: admin/post-types/product.php:778
@@ -384,7 +384,7 @@ msgstr "Vidnost"
 #: admin/post-types/product.php:881
 #@ woocommerce
 msgid "Catalog &amp; search"
-msgstr ""
+msgstr "Iskanje po &amp; katalogu"
 
 #: admin/post-types/product.php:614
 #: admin/post-types/product.php:882
@@ -416,14 +416,14 @@ msgstr "Skrito"
 #: admin/post-types/product.php:912
 #@ woocommerce
 msgid "In stock?"
-msgstr ""
+msgstr "Na zalogi?"
 
 #: admin/post-types/product.php:652
 #: admin/post-types/product.php:930
 #: admin/post-types/writepanels/writepanel-product_data.php:229
 #@ woocommerce
 msgid "Manage stock?"
-msgstr ""
+msgstr "Upravljaj z zalogo?"
 
 #: admin/post-types/product.php:656
 #: admin/post-types/product.php:949
@@ -444,7 +444,7 @@ msgstr "Število izdelkov na zalogi"
 #: admin/post-types/product.php:954
 #@ woocommerce
 msgid "— No Change —"
-msgstr ""
+msgstr "- Ni spremembe -"
 
 #: admin/post-types/product.php:788
 #: admin/post-types/product.php:810
@@ -453,7 +453,7 @@ msgstr ""
 #: admin/post-types/product.php:955
 #@ woocommerce
 msgid "Change to:"
-msgstr ""
+msgstr "Spremeni v:"
 
 #: admin/post-types/product.php:900
 #: admin/post-types/product.php:936
@@ -561,7 +561,7 @@ msgstr "Opombe naročila"
 #: admin/post-types/shop_order.php:48
 #@ woocommerce
 msgid "Customer Notes"
-msgstr ""
+msgstr "Opombe stranke"
 
 #: admin/post-types/shop_order.php:50
 #@ woocommerce
@@ -610,23 +610,23 @@ msgstr "Prek"
 #: admin/post-types/shop_order.php:134
 #@ woocommerce
 msgid "Unpublished"
-msgstr ""
+msgstr "Neobjavljeno"
 
 #: admin/post-types/shop_order.php:136
 #@ woocommerce
 msgid "Y/m/d g:i:s A"
-msgstr ""
+msgstr "d/m/Y g:i:s A"
 
 #: admin/post-types/shop_order.php:142
 #, php-format
 #@ woocommerce
 msgid "%s ago"
-msgstr ""
+msgstr "%s pred"
 
 #: admin/post-types/shop_order.php:144
 #@ woocommerce
 msgid "Y/m/d"
-msgstr "Leto/Mesec/Dan"
+msgstr "d/m/Y"
 
 #: admin/post-types/shop_order.php:161
 #: admin/woocommerce-admin-dashboard.php:173
@@ -642,7 +642,7 @@ msgstr "Dokončano"
 #: admin/post-types/shop_order.php:283
 #@ woocommerce
 msgid "Show all statuses"
-msgstr ""
+msgstr "Pokaži vsa stanja"
 
 #: admin/post-types/shop_order.php:302
 #: admin/post-types/shop_order.php:327
@@ -658,7 +658,7 @@ msgstr "Tip popusta"
 #: admin/post-types/writepanels/writepanel-coupon_data.php:39
 #@ woocommerce
 msgid "Enter an amount e.g. 2.99"
-msgstr ""
+msgstr "Vstavi znesek npr. 2.99"
 
 #: admin/post-types/writepanels/writepanel-coupon_data.php:42
 #@ woocommerce
@@ -4933,14 +4933,14 @@ msgstr "Košarica &rarr;"
 #: classes/class-wc-cart.php:759
 #@ woocommerce
 msgid "You already have this item in your cart."
-msgstr ""
+msgstr "Izdelek je že v vaši košarici."
 
 #: classes/class-wc-cart.php:773
 #: classes/class-wc-cart.php:781
 #, php-format
 #@ woocommerce
 msgid "<a href=\"%s\" class=\"button\">%s</a> You cannot add that amount to the cart &mdash; we have %s in stock and you already have %s in your cart."
-msgstr ""
+msgstr "Nemorete dodati željene količine v košarico &mdash; na zalogi je %s in vi že imate %s v vaši košarici."
 
 #: classes/class-wc-cart.php:1588
 #: classes/class-wc-order.php:785
@@ -4950,7 +4950,7 @@ msgstr ""
 #: classes/class-wc-product.php:1011
 #@ woocommerce
 msgid "Free!"
-msgstr ""
+msgstr "Zastonj!"
 
 #: classes/class-wc-cart.php:1600
 #@ woocommerce
@@ -4960,27 +4960,27 @@ msgstr "po"
 #: classes/class-wc-cart.php:1638
 #@ woocommerce
 msgid "Invalid coupon."
-msgstr ""
+msgstr "Neveljaven kupon"
 
 #: classes/class-wc-cart.php:1644
 #@ woocommerce
 msgid "Discount code already applied!"
-msgstr ""
+msgstr "Koda za popust je že bila sprejeta!"
 
 #: classes/class-wc-cart.php:1664
 #@ woocommerce
 msgid "Discount code applied successfully."
-msgstr ""
+msgstr "Koda za popust je bila uspešno sprejeta."
 
 #: classes/class-wc-cart.php:1671
 #@ woocommerce
 msgid "Coupon does not exist!"
-msgstr ""
+msgstr "Koda kupona ne obstaja!"
 
 #: classes/class-wc-checkout.php:49
 #@ woocommerce
 msgid "Account username"
-msgstr ""
+msgstr "Uporabniško ime računa"
 
 #: classes/class-wc-checkout.php:50
 #@ woocommerce
@@ -4992,14 +4992,14 @@ msgstr "Uporabniško ime"
 #: classes/class-wc-checkout.php:64
 #@ woocommerce
 msgid "Account password"
-msgstr ""
+msgstr "Geslo računa"
 
 #: classes/class-wc-checkout.php:58
 #: classes/class-wc-checkout.php:65
 #@ woocommerce
 msgctxt "placeholder"
 msgid "Password"
-msgstr ""
+msgstr "Geslo"
 
 #: classes/class-wc-checkout.php:75
 #@ woocommerce
@@ -5017,64 +5017,64 @@ msgstr "Žal je vaša seja potekla. <a href=\"%s\">Vrnitev na domačo stran &rar
 #: shortcodes/shortcode-my_account.php:169
 #@ woocommerce
 msgid "is a required field."
-msgstr ""
+msgstr "je zahtevano polje."
 
 #: classes/class-wc-checkout.php:225
 #@ woocommerce
 msgid "is not a valid number."
-msgstr ""
+msgstr "ni pravilna številka."
 
 #: classes/class-wc-checkout.php:232
 #@ woocommerce
 msgid "is not a valid email address."
-msgstr ""
+msgstr "ni pravilen e-mail naslov."
 
 #: classes/class-wc-checkout.php:288
 #@ woocommerce
 msgid "Please enter an account username."
-msgstr ""
+msgstr "Prosimo vnesite uporabniško ime."
 
 #: classes/class-wc-checkout.php:305
 #@ woocommerce
 msgid "Please enter an account password."
-msgstr ""
+msgstr "prosimo vnesite geslo."
 
 #: classes/class-wc-checkout.php:308
 #: shortcodes/shortcode-my_account.php:251
 #: woocommerce-functions.php:642
 #@ woocommerce
 msgid "Passwords do not match."
-msgstr ""
+msgstr "Geslea se ne ujemajo."
 
 #: classes/class-wc-checkout.php:292
 #@ woocommerce
 msgid "Invalid email/username."
-msgstr ""
+msgstr "Nepravilen email/uporabniško ime."
 
 #: classes/class-wc-checkout.php:295
 #@ woocommerce
 msgid "An account is already registered with that username. Please choose another."
-msgstr ""
+msgstr "Uporabniški račun s tem uporabniškim imenom že obstaja. Prosimo izberite drugačno uporabniško ime."
 
 #: classes/class-wc-checkout.php:312
 #@ woocommerce
 msgid "An account is already registered with your email address. Please login."
-msgstr ""
+msgstr "Uporabniški račun je že registriran z vašim email naslovom. Prosimo prijavite se."
 
 #: classes/class-wc-checkout.php:318
 #@ woocommerce
 msgid "You must accept our Terms &amp; Conditions."
-msgstr ""
+msgstr "Sprejemate naše pogoje uporabe &amp; Pogoji uporabe."
 
 #: classes/class-wc-checkout.php:326
 #@ woocommerce
 msgid "Invalid shipping method."
-msgstr ""
+msgstr "Neveljavna metoda za dostavo."
 
 #: classes/class-wc-checkout.php:336
 #@ woocommerce
 msgid "Invalid payment method."
-msgstr ""
+msgstr "Neveljavna plačilna metoda."
 
 #: classes/class-wc-checkout.php:366
 #: widgets/widget-login.php:267
@@ -5088,37 +5088,37 @@ msgstr ""
 #: woocommerce-functions.php:659
 #@ woocommerce
 msgid "ERROR"
-msgstr ""
+msgstr "NAPAKA"
 
 #: classes/class-wc-countries.php:35
 #@ woocommerce
 msgid "Afghanistan"
-msgstr ""
+msgstr "Afganistan"
 
 #: classes/class-wc-countries.php:37
 #@ woocommerce
 msgid "Albania"
-msgstr ""
+msgstr "Albanija"
 
 #: classes/class-wc-countries.php:38
 #@ woocommerce
 msgid "Algeria"
-msgstr ""
+msgstr "Alžirija"
 
 #: classes/class-wc-countries.php:39
 #@ woocommerce
 msgid "American Samoa"
-msgstr ""
+msgstr "Ameriška Samoa"
 
 #: classes/class-wc-countries.php:40
 #@ woocommerce
 msgid "Andorra"
-msgstr ""
+msgstr "Andora"
 
 #: classes/class-wc-countries.php:41
 #@ woocommerce
 msgid "Angola"
-msgstr ""
+msgstr "Angola"
 
 #: classes/class-wc-countries.php:42
 #@ woocommerce
@@ -5188,7 +5188,7 @@ msgstr ""
 #: classes/class-wc-countries.php:55
 #@ woocommerce
 msgid "Belarus"
-msgstr ""
+msgstr "Belorusija"
 
 #: classes/class-wc-countries.php:56
 #@ woocommerce
@@ -6749,7 +6749,7 @@ msgstr ""
 #: classes/class-wc-countries.php:448
 #@ woocommerce
 msgid "Europe"
-msgstr ""
+msgstr "Evropa"
 
 #: classes/class-wc-countries.php:449
 #@ woocommerce
@@ -6774,22 +6774,22 @@ msgstr ""
 #: classes/class-wc-countries.php:577
 #@ woocommerce
 msgid "VAT"
-msgstr ""
+msgstr "DDV"
 
 #: classes/class-wc-countries.php:590
 #@ woocommerce
 msgid "(incl. VAT)"
-msgstr ""
+msgstr "z DDV"
 
 #: classes/class-wc-countries.php:590
 #@ woocommerce
 msgid "(incl. tax)"
-msgstr ""
+msgstr "z DDV"
 
 #: classes/class-wc-countries.php:603
 #@ woocommerce
 msgid "(ex. VAT)"
-msgstr ""
+msgstr "brez DDV"
 
 #: classes/class-wc-countries.php:832
 #: classes/class-wc-countries.php:833
@@ -6815,32 +6815,32 @@ msgstr ""
 #: classes/class-wc-countries.php:899
 #@ woocommerce
 msgid "Town/District"
-msgstr ""
+msgstr "Mesto"
 
 #: classes/class-wc-countries.php:902
 #: classes/class-wc-countries.php:903
 #@ woocommerce
 msgid "Region"
-msgstr ""
+msgstr "Regija"
 
 #: classes/class-wc-countries.php:1003
 #: classes/class-wc-countries.php:1004
 #@ woocommerce
 msgid "Zip"
-msgstr ""
+msgstr "Poštna številka:"
 
 #: classes/class-wc-countries.php:1007
 #: classes/class-wc-countries.php:1008
 #: templates/cart/shipping-calculator.php:59
 #@ woocommerce
 msgid "State"
-msgstr ""
+msgstr "Zvezna država"
 
 #: classes/class-wc-countries.php:1017
 #: classes/class-wc-countries.php:1018
 #@ woocommerce
 msgid "County"
-msgstr ""
+msgstr "Okrožje"
 
 #: classes/class-wc-countries.php:1044
 #: classes/class-wc-countries.php:1045
@@ -6908,7 +6908,7 @@ msgstr "Poštna številka"
 #@ woocommerce
 msgctxt "placeholder"
 msgid "Country"
-msgstr ""
+msgstr "Država"
 
 #: classes/class-wc-countries.php:1131
 #@ woocommerce
@@ -6936,70 +6936,70 @@ msgstr "Telefon"
 #: classes/class-wc-email.php:193
 #@ woocommerce
 msgid "New Customer Order"
-msgstr ""
+msgstr "Naročilo novega kupca"
 
 #: classes/class-wc-email.php:237
 #, php-format
 #@ woocommerce
 msgid "[%s] Order Received"
-msgstr ""
+msgstr "[%s] Naročilo prejeto"
 
 #: classes/class-wc-email.php:274
 #, php-format
 #@ woocommerce
 msgid "[%s] Order Complete/Download Links"
-msgstr ""
+msgstr "[%s] Naročilo zaključeno/Povezava za prenos"
 
 #: classes/class-wc-email.php:275
 #@ woocommerce
 msgid "Order Complete/Download Links"
-msgstr ""
+msgstr "Naročilo zaključeno/Povezava za prenos"
 
 #: classes/class-wc-email.php:277
 #, php-format
 #@ woocommerce
 msgid "[%s] Order Complete"
-msgstr ""
+msgstr "[%s] Naročilo zaključeno"
 
 #: classes/class-wc-email.php:278
 #@ woocommerce
 msgid "Order Complete"
-msgstr ""
+msgstr "Naročilo zaključeno"
 
 #: classes/class-wc-email.php:324
 #, php-format
 #@ woocommerce
 msgid "Your order on %s"
-msgstr ""
+msgstr "Vaše naročilo na %s"
 
 #: classes/class-wc-email.php:325
 #, php-format
 #@ woocommerce
 msgid "[%s] Your order"
-msgstr ""
+msgstr "Vaše naročilo"
 
 #: classes/class-wc-email.php:327
 #, php-format
 #@ woocommerce
 msgid "Invoice for Order %s"
-msgstr ""
+msgstr "Račun za naročilo %s"
 
 #: classes/class-wc-email.php:328
 #, php-format
 #@ woocommerce
 msgid "[%s] Pay for Order"
-msgstr ""
+msgstr "Plačilo za naročilo"
 
 #: classes/class-wc-email.php:376
 #@ woocommerce
 msgid "A note has been added to your order"
-msgstr ""
+msgstr "Opomba je bila dodana vašemu naročilu"
 
 #: classes/class-wc-email.php:380
 #, php-format
 #@ woocommerce
 msgid "[%s] A note has been added to your order"
-msgstr ""
+msgstr "[%s] Opomba je bila dodana vašemu naročilu"
 
 #: classes/class-wc-email.php:417
 #@ woocommerce
